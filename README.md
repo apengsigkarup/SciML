@@ -9,7 +9,7 @@ The recommended way to install the necessary code to work with and run the exerc
 
     conda create -n SciML-env
     conda activate SciML-env
-    conda install -r environment.yml
+    conda install -r environment.yaml
 
     
 
